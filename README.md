@@ -1,1 +1,1 @@
-nama saya Saepulloh, saya belajar programer.
+nama saya Saepulloh.
