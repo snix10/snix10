@@ -17,6 +17,7 @@ web porto :  https://snix10.github.io/mywebapp/
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/>
 </div>
 <br>
+<hr>
 <!-- <div>
   <div>
     FULLSTACK / BACKEND
