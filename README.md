@@ -1,4 +1,4 @@
-![Deskripsi GIF](https://github.com/snix10/MY_DESIGN/raw/main/GIF/banner gif saepulloh.gif)
+![Deskripsi GIF](https://github.com/snix10/MY_DESIGN/raw/main/GIF/banner.gif)
 
 
 
