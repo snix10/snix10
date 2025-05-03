@@ -1,3 +1,7 @@
+![Deskripsi GIF](https://github.com/snix10/MY_DESIGN/raw/main/GIF/banner gif saepulloh.gif)
+
+
+
 <h1>Saepulloh</h1>
 
 web porto :  https://snix10.github.io/mywebapp/
