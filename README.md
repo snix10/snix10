@@ -60,4 +60,14 @@ web porto :  https://snix10.github.io/mywebapp/
 </div>
 
 
+
+<p align="left">
+  <img src="https://via.placeholder.com/150" alt="Contoh Gambar" width="150" style="float: left; margin-right: 20px;">
+  Ini adalah teks yang berada di sebelah kanan gambar.  
+  Kamu bisa menulis deskripsi proyek, instruksi penggunaan, atau informasi penting lainnya di sini.  
+  Gunakan paragraf tambahan jika perlu.  
+</p>
+
+
+
  -->
