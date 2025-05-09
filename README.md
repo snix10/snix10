@@ -4,8 +4,7 @@
 ### 📄 Tentang Saya
 
 <p align="left">
-  Halo! Saya Saepulloh, seorang web developer dengan Laravel.  
-  dan Mobile developer dengan Flutter.
+  Halo! Saya Saepulloh, seorang programmer software developer, belajar secara otodidak, tertarik dengan teknologi design.
 </p>
 
 🌐 Web Porto: [https://snix10.github.io/mywebapp/](https://snix10.github.io/mywebapp/)   
