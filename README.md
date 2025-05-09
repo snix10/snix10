@@ -1,10 +1,10 @@
 ![Deskripsi GIF](https://github.com/snix10/MY_DESIGN/raw/main/GIF/banner.gif)
 
 <h1>Saepulloh</h1>
-### 📄 Tentang Saya
+ 📄 Tentang Saya
 
 <p align="left">
-  Halo! Saya Saepulloh, seorang programmer software developer, belajar secara otodidak, tertarik dengan teknologi design.
+  Halo! Saya Saepulloh, seorang programmer software developer, belajar secara otodidak, tertarik dengan teknologi dan design.
 </p>
 
 🌐 Web Porto: [https://snix10.github.io/mywebapp/](https://snix10.github.io/mywebapp/)   
