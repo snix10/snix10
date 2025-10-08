@@ -8,8 +8,7 @@
 </p>
 
 🌐 Web Porto: [https://snix10.github.io/mywebapp/](https://snix10.github.io/mywebapp/)   
-🎥 [Youtube](https://www.youtube.com/@Saepulloh10)    
-🧡 [https://saweria.co/ETBPROJECTS](https://saweria.co/ETBPROJECTS)
+
 
 ### ⚙️ Tools & Tech Stack
 
