@@ -29,6 +29,9 @@
 
 ### 📱 APLIKASI
 
+📥 <a href="https://github.com/snix10/MY_DESIGN/raw/main/APK/ML Tactic Board arm64.apk" target="_blank">Download APK ML Tactic Board</a><br>
+
+---
 <table>
   <tr>
     <td>
