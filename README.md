@@ -46,13 +46,9 @@
   </tr>  
 </table>
 
-&nbsp;
-
 <p>
 
 </p>
-
-&nbsp;
 
 <table>  
   <tr>  
