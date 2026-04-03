@@ -2,17 +2,12 @@
 
 ![Deskripsi GIF](https://github.com/snix10/MY_DESIGN/raw/main/GIF/banner.gif)
 
-<h1>Saepulloh</h1>  Software Engineer
- 📄 Tentang Saya
 
 <!-- <p align="left">  
   Halo! Saya Saepulloh, seorang programmer software developer, belajar secara otodidak, tertarik dengan teknologi dan design.  
 </p> -->
 
-🌐 Web Porto: [https://snix10.github.io/mywebapp/](https://snix10.github.io/mywebapp/)
-
-
-### ⚙️ Tools & Tech Stack
+Tech Stack
 
 <!-- <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  
@@ -27,13 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/>  
 </div> -->
 
----
 
-### 📱 APLIKASI
-
-📥 <a href="https://github.com/snix10/MY_DESIGN/raw/main/APK/ML Tactic Board arm64.apk" target="_blank">Download APK ML Tactic Board</a><br>
-
----  
 <!-- <table>  
   <tr>  
     <td>  
@@ -111,5 +100,3 @@
     </td>  
   </tr>  
 </table> -->
-
----
