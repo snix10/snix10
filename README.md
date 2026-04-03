@@ -28,6 +28,29 @@ Tech Stack
   * **Hero:** Pastikan Roamer punya skill CC.
 </details>
 
+# 📱 MLBB Tactic Board
+> *Strategi Makro dalam Genggaman.*
+
+<!-- Baris Screenshot ala App Store -->
+
+| 🛡️ Draft Pick | ⚔️ Rotation Plan | 🏰 Base Siege |
+| :---: | :---: | :---: |
+| <details><summary><img src="https://placeholder.com" width="180"></summary><br><b>Detail:</b> Fitur simulasi counter hero musuh secara real-time.</details> | <details><summary><img src="https://placeholder.com" width="180"></summary><br><b>Detail:</b> Gambar jalur rotasi dari Mid ke Gold Lane.</details> | <details><summary><img src="https://placeholder.com" width="180"></summary><br><b>Detail:</b> Strategi push 3 lane sekaligus saat Lord muncul.</details> |
+
+<br>
+
+### 🚀 Fitur Utama
+*   **Drag & Drop Hero:** Susun formasi semudah menggeser ikon.
+*   **Custom Drawing:** Corat-coret di atas Map Land of Dawn.
+*   **Save & Share:** Simpan taktik dan bagikan ke grup WhatsApp tim kamu.
+
+---
+
+<!-- Tombol Download ala Store -->
+[![Download on Play Store](https://shields.io)](https://google.com)
+[![Download on App Store](https://shields.io)](https://apple.com)
+
+
 
 <!-- <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  
