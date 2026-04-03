@@ -14,6 +14,21 @@ Tech Stack
   Ini adalah teks atau gambar yang tersembunyi dan baru muncul saat diklik.
 </details>
 
+<details>
+  <summary>
+    <!-- Hanya gambar yang muncul sebagai tombol -->
+     <img src="https://github.com/snix10/MY_DESIGN/raw/main/APK/ETB_LOGO_BLACK_BACKGROUND.png" alt="ETB_LOGO" width="150"> 
+  </summary>
+
+  <br>
+
+  ### 📝 Detail Strategi:
+  * **Rotasi:** Mid ke arah Gold Lane menit ke-2.
+  * **Objektif:** Amankan Turtle pertama.
+  * **Hero:** Pastikan Roamer punya skill CC.
+</details>
+
+
 <!-- <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  
