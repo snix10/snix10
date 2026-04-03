@@ -9,6 +9,11 @@
 
 Tech Stack
 
+<details>
+  <summary>Klik untuk lihat detail taktik</summary>
+  Ini adalah teks atau gambar yang tersembunyi dan baru muncul saat diklik.
+</details>
+
 <!-- <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  
