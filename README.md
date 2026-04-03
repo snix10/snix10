@@ -5,13 +5,12 @@
 <h1>Saepulloh</h1>  Software Engineer
  📄 Tentang Saya
 
-<p align="left">  
+<!-- <p align="left">  
   Halo! Saya Saepulloh, seorang programmer software developer, belajar secara otodidak, tertarik dengan teknologi dan design.  
-</p>
+</p> -->
 
 🌐 Web Porto: [https://snix10.github.io/mywebapp/](https://snix10.github.io/mywebapp/)
 
-&nbsp;
 
 ### ⚙️ Tools & Tech Stack
 
@@ -35,7 +34,7 @@
 📥 <a href="https://github.com/snix10/MY_DESIGN/raw/main/APK/ML Tactic Board arm64.apk" target="_blank">Download APK ML Tactic Board</a><br>
 
 ---  
-<table>  
+<!-- <table>  
   <tr>  
     <td>  
       <img src="https://github.com/snix10/MY_DESIGN/raw/main/APK/ETB_LOGO_BLACK_BACKGROUND.png" alt="ETB_LOGO" width="150">  
@@ -111,6 +110,6 @@
       </table>  
     </td>  
   </tr>  
-</table>
+</table> -->
 
 ---
