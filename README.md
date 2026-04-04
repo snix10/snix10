@@ -1,4 +1,3 @@
-&nbsp;
 
 ![Deskripsi GIF](https://github.com/snix10/MY_DESIGN/raw/main/GIF/banner.gif)
 
@@ -17,11 +16,9 @@
     font-weight: bold;
     color: blue;
   ">
-    ⬇️ Download
+    <h3>MLBB Tactic Board</h3>
   </summary>
-
-  <br>
-
+     
   ### 📝 Detail Strategi:
   * **Rotasi:** Mid ke arah Gold Lane menit ke-2.
   * **Objektif:** Amankan Turtle pertama.
