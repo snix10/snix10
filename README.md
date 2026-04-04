@@ -7,17 +7,17 @@
   Halo! Saya Saepulloh, seorang programmer software developer, belajar secara otodidak, tertarik dengan teknologi dan design.  
 </p> -->
 
-Tech Stack
+
+<img src="https://github.com/snix10/MY_DESIGN/raw/main/APK/ETB_LOGO_BLACK_BACKGROUND.png" 
+     alt="ETB_LOGO" width="150">
 
 <details>
-  <summary>Klik untuk lihat detail taktik</summary>
-  Ini adalah teks atau gambar yang tersembunyi dan baru muncul saat diklik.
-</details>
-
-<details>
-  <summary>
-    <!-- Hanya gambar yang muncul sebagai tombol -->
-     <img src="https://github.com/snix10/MY_DESIGN/raw/main/APK/ETB_LOGO_BLACK_BACKGROUND.png" alt="ETB_LOGO" width="150"> 
+  <summary style="
+    cursor: pointer;
+    font-weight: bold;
+    color: blue;
+  ">
+    ⬇️ Download
   </summary>
 
   <br>
