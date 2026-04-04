@@ -11,14 +11,10 @@
      alt="ETB_LOGO" width="150">
 
 <details>
-  <summary style="
-    cursor: pointer;
-    font-weight: bold;
-    color: blue;
-  ">
-    <h3>MLBB Tactic Board</h3>
-  </summary>
-     
+  <summary><b>MLBB Tactic Board</b></summary>
+
+  <br>
+
   ### 📝 Detail Strategi:
   * **Rotasi:** Mid ke arah Gold Lane menit ke-2.
   * **Objektif:** Amankan Turtle pertama.
